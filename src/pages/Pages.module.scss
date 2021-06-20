@@ -1,0 +1,29 @@
+.Title {
+  color: #423333;
+  margin: 10px 0px;
+}
+
+.HomeItem {
+  font-size: 20px;
+}
+
+.HomeItem:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.MoviesDetailCont {
+  max-width: 450px;
+}
+
+.MovieCardInfoCont {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.MovieCardInfo_Item:not(last-child) {
+  margin-bottom: 5px;
+}
+
+.MovieBtnBack {
+  margin-top: 10px;
+}

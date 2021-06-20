@@ -1,1 +1,1 @@
-# goit-react-hw-04-movies-hooks-and-context
+# goit-react-hw-04-movies
